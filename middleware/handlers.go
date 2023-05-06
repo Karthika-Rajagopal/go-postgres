@@ -1,4 +1,4 @@
-package middleware
+package middleware   //The middleware package serves as the bridge between APIs and the database, handling all CRUD operations
 
 import (
 	"database/sql"
